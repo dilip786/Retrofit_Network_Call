@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RetrofitGoogleNearBy</string>
+    <string name="type">cafe</string>
+    <integer name="radius">5000</integer>
+    <string name="key">AIzaSyBywqwSJG4uC2btZZQrkJiDVzH73g_PVoU</string>
+    <string name="latitude">25.0805</string>
+    <string name="longitude">55.1403</string>
+
+
+
+</resources>
