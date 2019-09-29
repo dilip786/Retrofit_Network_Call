@@ -1,2 +1,3 @@
 # Retrofit_GoogleNearBy_Places
- Feteching nearby places using Retrofit library
+
+Fetching nearby places using Google API & Showing in recyclerView. Retrofit, RecyclerView & Kotlin
