@@ -12,8 +12,6 @@ The main purpose of this app is retrieving nearby places (Using Google Place API
 ```
 def retrofit_version = "2.6.2";
 
-// Lifecycle components
-
 implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
 implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
    
