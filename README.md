@@ -27,7 +27,8 @@ implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
 * Presenter: It acts as a bridge that connects a Model and a View.
 * View: This is responsible for laying out views with the relevant data as instructed by the Presenter
 
-### Android MVP Guidelines
+### Key Points about MVP Pattern
+
 * Activity, Fragment and a CustomView act as the View part of the application.
 * The Presenter is responsible for listening to user interactions (on the View) and model updates (database, APIs) as well as   updating the Model and the View.
 * Interfaces need to be defined and implemented to communicate between View-Presenter and Presenter-Model.
