@@ -4,7 +4,7 @@ The main purpose of this app is retrieving nearby places (Using Google Place API
 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/10658016/66260067-413ccf80-e7d7-11e9-9363-9a1e7e0f0370.gif?raw=true" alt="Home Page" width="300"/>
+  <img src="https://user-images.githubusercontent.com/10658016/66260067-413ccf80-e7d7-11e9-9363-9a1e7e0f0370.gif?raw=true" alt="Home Page" width="500"/>
 </p>
 
 ## Dependencies
