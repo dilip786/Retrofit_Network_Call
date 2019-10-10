@@ -4,7 +4,7 @@ The main purpose of this app is retrieving nearby places (Using Google Place API
 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/10658016/66260067-413ccf80-e7d7-11e9-9363-9a1e7e0f0370.gif?raw=true" alt="Home Page" width="500"/>
+  <img src="https://user-images.githubusercontent.com/10658016/66260067-413ccf80-e7d7-11e9-9363-9a1e7e0f0370.gif?raw=true" alt="Home Page" width="300"/>
 </p>
 
 ## Dependencies
@@ -20,7 +20,7 @@ implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
 # Android MVP Architecture 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/10658016/66260242-ac87a100-e7d9-11e9-8548-020ab1255db9.png?raw=true" alt="Home Page" width="300"/>
+  <img src="https://user-images.githubusercontent.com/10658016/66260242-ac87a100-e7d9-11e9-8548-020ab1255db9.png?raw=true" alt="Home Page" width="500"/>
 </p>
 
 * Model: This handles the data part of our application
